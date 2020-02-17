@@ -11,7 +11,7 @@ CodeIgniter Test save session
 
 
 # Config in 
-application/config/config.php
+application/config/config.php  
 https://codeigniter.com/userguide3/libraries/sessions.html
 
 Database basic is
